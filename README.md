@@ -17,7 +17,7 @@
 <p align="center">
     <br/>
   <br/>
-  <img src="Foody.gif" width="500px">
+  <img src="Foody.gif" >
   <br/>
   <br/>
 </p>
