@@ -14,5 +14,13 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-launchbase-desafios-01?color=%23F7DF1E">
  ## 🚀 Desafios
 
+<p align="center">
+    <br/>
+  <br/>
+  <img src="https://media.giphy.com/media/J2NqJ3VeISp4nw3VwQ/giphy.gif" width="700px">
+  <br/>
+  <br/>
+</p>
+
 
 
